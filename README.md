@@ -1,2 +1,2 @@
-# spotyfy
-spotyfy
+# JavaScript's Project 
+
